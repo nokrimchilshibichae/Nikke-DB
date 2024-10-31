@@ -1,7 +1,7 @@
 # Nikke DB
-![그레이브](이미지_URL)
-![그레이브](이미지_URL)
-![그레이브](이미지_URL)
+![그레이브](image/GraveStand.png)
+![그레이브](image/GraveBlock.png)
+![그레이브](image/GraveFire.png)<br>
 그레이브 (CV : 한미리)
 
 [방열 제거 조건]에 대해<br>
